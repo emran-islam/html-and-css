@@ -1,0 +1,77 @@
+body{
+    background-color: beige;
+}
+
+.bugatti{
+    height: 300px;
+    width: auto;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.ps5{
+    height: 300px;
+    width: auto;
+    border: 2px solid black;
+    border-radius: 30%;
+    float: right;
+    margin-top:-310px;
+    margin-right: 50px;
+}
+
+
+h1, h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p, ol, ul, nav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.profile{
+    font-size:large;
+}
+
+ul{
+    padding-top: 10px;
+}
+
+nav{
+    font-size: larger;
+    text-align:center;
+    margin: 10px;
+    padding: 10px;
+}
+
+ol, ul{
+    color: brown;
+    font-size: large;
+}
+/*
+.grid-item1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 30px;
+    border: 10px solid black;
+    padding: 50px;
+    margin-top: -450px;
+    margin-left: 50px;
+    width: 500px;
+}
+
+.grid-item2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 30px;
+    border: 10px solid black;
+    padding: 50px;
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 500px;
+}*/
+
+
